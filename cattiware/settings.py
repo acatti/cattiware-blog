@@ -27,7 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'cattiware-rpi',
-    '192.168.1.55'
+    '192.168.1.55',
+    'cware.pythonanywhere.com',
 ]
 
 
