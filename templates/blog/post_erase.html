@@ -1,0 +1,12 @@
+{% extends 'blog/base.html' %}
+{% block content %}
+	<h1 style="color:white">Eliminare il seguente Post?</h1>
+	<div>
+		<form method="POST" class="post-form">{% csrf_token %}
+			<b>TITOLO</b>:<br>{{ post.title }}<br><br>
+			<b>SOTTOTITOLO</b>:<br>{{ post.subtitle }}<br><br>
+			<b>CONTENUTO</b>:<br>{{ post.text | safe }}<br><br>
+			<button style="background-color:black;color:white" type="submit" class="save btn btn-default">Elimina</button>
+		</form>
+	</div>
+{% endblock %}

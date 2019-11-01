@@ -1,0 +1,698 @@
+Script started on 2019-11-01 17:48:19+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m ifconfig lxterminal -e python3 /home/pi/django/manage.py runserver[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kscript myvenv/bin/activate
+Script started, file is myvenv/bin/activate
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m ifconfiglxterminal -e python3 /home/pi/django/manage.py runserver[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m ifconfig[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksource
+bash: source: necessario un nome file come argomento
+source: uso: source nomefile [argomenti]
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m source myvenv/bin/activate
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m source myvenv/bin/activate[Kifconfiglxterminal -e python3 /home/pi/django/manage.py runserver[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m @lxterminal -e python3 /home/pi/django/manage.py runserver[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [27Psudo nano /usr/bin/python
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chome/pi/.config/lxsession/LXDE-pi/autostart[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[Cetc/rc.local[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pautostart[5Pnanogit push origin mastercommit -m "Aggiunta directory 'static'"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd *[Kcommit -m "Aggiunta directory 'static'"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[28Pnano .gitignoregit commit -m "Aggiunta di cware.pythonanywhere.com come nome host"[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[21Ppull --rebase origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Psh[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9@ll --rebase[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "Aggiunta di cware.pythonanywhere.com come nome host"[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[Cv[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[1Padd *cd djangoDjangols[Kgit add *statuspush origin master[9@ll --rebase[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "Prima versione del Blog CattiWare"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K[1Padd *statuscommit -vreset --mixed origin/master[18Pcommit -v-helpremove *[4Prm commit[C[C[4@emove[C[C[C[C[C[C[C[C[C[Kpull --rebase origin master[18Premote -v[Kpush origin master[5Pll --rebasesh origin mastershell[Ksudo apt-get install xclipcp -r cattiware-blog.git acatti@github.com:/opt/git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Psh-add /home/pi/django/github/ssh/key
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Peval $(ssh-agent -s)scp -r cattiware-blog.git acatti@github.com:/opt/git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Psh-keygen -t rsa -b 4096 -C "acatti@github.com"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27P acatti@github.comcp -r cattiware-blog.git acatti@github.com:/opt/git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd django[KDJango[1Pgit initremove[5Pcd ..scp -r cattiware-blog.git acatti@github.com:/opt/git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csh[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp -r cattiware-blog.git acatti@.com:/opt/git140.82.118.4@github.com:/opt/git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cacatti@github.com:/opt/git [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pnano  /home/pi/.ssh/id_rsa.pub
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cech[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Pnano /home/pi/.ssh/id_rsassh-keygen -t rsa -b 4096 -C "acatti@github.com"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp -r cattiware-blog.git acatti@github.com:/opt/git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Pcp -Rf .git/ cattiware-blog.git
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10@git clone --bare[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Ppush origin master[13Pcd djangogit pull ./django/[5Premote -vfetch originremote add origin git://github.com/acatti/cattiware-blog[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[Cfetch origin[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Knano index.phpocd /var/www/htmlsudo git push origin mastergit pull[Ksudo git push origin master[17Pgit statuspush origin mastercommit -m "CattiWare Blog"lone https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[Cadd --all [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclone https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[22Pommit -m "CattiWare Blog"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pfirst commit"[13Padd --all .clone https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[Cadd --all .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kclone https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[30Ppush origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@-u [C[C[C[C[C[C[C[C[C[C[C[C[C[Korigin blogremote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[29Ppush -u origin blog
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K masterremote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[15Pcommit -m "Blog CattiWare - v0.1"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd --all[K[1Pall[2Pstatusnano .gitignoregit config --global user.email "cattialessandro351@gmail.com"[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pname "acatti"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[Ksudo rmdir .git/[9Pls .gitsudo rmdir .git/refs/*[K[Kobjects/[8Pls[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo rmdir .git/objects/./[1P*[K[K[Klogs/refs/**[K*[K[3P .git/*/*/*/*/*/*[K[K[K[K.*/*/*/*[K[K[K[K[Kdir --help[2P.git[K chmod 777 -R ./.gitcd ..[Ksudo chmod 777 -R ./.[K[K.[K[K[6Prm */*/*[K.[Kcd .git[2P.[3Plscd .git[30@rmdir --ignore-fail-on-non-empty[C[C[C[C[C--helphelp[Kforce .git/[5Pf[C[C[C[C[C[C[3P.git/[3P .git/[3Pcd ..[3Plscd .git//.git/git remote remove origin master[7Pmasteroriginhttps://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcattiware-blog.git
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kadd origin https://github.com/acatti/cattiware-blog[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd djangols[Kcd ..git commit -m "Blog"[3P"Blog"--help[Kadd --all .rm -n --all[3P-all[4@emove[C[C[C[C[C[Cpush -u origin masterremote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[Cremove origin[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[Cremove https://github.com/acatti/cattiware[7P-blog/[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Corigin https://github.com/acatti/cattiware-blog/[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[Cm origin https://github.com/acatti/cattiw[4Pare-blog/[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[27Ppush -u origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[Cpull https://github.com/acatti/cattiware-blog/ master[K[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpullstatusconfig --global user.email "cattialessandro351@gmail.com"[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pname "acatti"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[Kpush -u origin masterll[Ksh -u origin masterls[Kgit remote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[15Pcommit -m "CattiWare Blog - v0.1"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Padd --all .[5Pstatusnano .gitignore[7Pgit initcd django[1Pgit initadd --all .[10Pcd ..git commit -m "CattiWare Blog - v1.1"[22Padd --all .remote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[27Ppush -u origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "CattiWare Blog - v1.0"[22Padd --all .ls[Kgit push -u origin masterremote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[15Pcommit -m "CattiWare Blog - v1.0"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd --all[Kremote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[27Ppush -u origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnano .gitignoregit config --global user.email "cattialessandro351@gmail.com"[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pname "CattiWare"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[Kadd -all[3Pcd django[6Pgitsudo nano index.php[1Prm index.html[11Pcd html[1Pwwwvar[2P/sudo apt install phpapache2ource myvenv/bin/activate[17Pcd djangopython manage.py runserver 192.168.1.55:8000[8Pmakemigrations blogrunserver 192.168.1.55:8000[K localhsot:8000192.168.1.55:8000[8Pmakemigrations blogrunserver 192.168.1.55:8000migrate[Kakemigrateions blogrunserver 192.168.1.55:8000[12Pcreatesuperuser[8Pmigratecreatesuperuser[1Pmakemigrations blog[4Pcreatesuperuser[3Pmigrate blog[7@akemigrations[C[C[C[C[C[1@s[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pnano cattiware/settings.pypython manage.py startapp blog .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pnano cattiware/settings.pypython manage.py startapp blog .[Krunserver 192.168.1.55:8000[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pnano cattiware/settings.pypython manage.py runserver 192.168.1.55:8000[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cifconfig[Kpython manage.py runserver 192.168.1.55:8000[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pnano cattiware/settings.pypython manage.py runserver 192.168.1.55:8000[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cifconfig[Kpython manage.py runserver cattiware-rpi:8000[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pnano cattiware/settings.pypython manage.py runserver cattiware-rpi:8000[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pnano cattiware/settings.pypython manage.py runserver cattiware-rpi[K[K[K manage.py migratenano cattiware/settings.pydjango-admin startproject cattiware .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Ppip install Django[11Pdjango cd django[4P..source myvenv/bin/activate[4Ppython3 -m venv myvenv[13Pcd django[3@mkdir[C[C[C[C[C[C[Csudo shutdown nowls[Kcd var[4Plscd ..sudo apt install ftpd-serverftp[Kd[6Pftpdsudo service ftp restart[2Pstartd startrestart[4Papt install ftpdpip3 install Django[9Ppython3 calc.py[3Pnano[C[C[C[C[C[C[C[C[3@python3[C[C[C[C[C[C[C[C[3Pnano[C[C[C[C[C[C[C[C[3@python3[C[C[C[C[C[C[C[C[3Pnano[C[C[C[C[C[C[C[C[3@python3[C[C[C[C[C[C[C[C[3Pnano[C[C[C[C[C[C[C[C[3@python3[C[C[C[C[C[C[C[C[3Pnano[C[C[C[C[C[C[C[C[3@python3[C[C[C[C[C[C[C[C[3Pnano[C[C[C[C[C[C[C[C[3@python3[C[C[C[C[C[C[C[C[3Pnano[C[C[C[C[C[C[C[C[3@python3[C[C[C[C[C[C[C[C[3Pnano[C[C[C[C[C[C[C[C[3@python3[C[C[C[C[C[C[C[C[3Pnano[C[C[C[C[C[C[C[C[3@python3[C[C[C[C[C[C[C[C[3Pnano[C[C[C[C[C[C[C[C[3@python3[C[C[C[C[C[C[C[Csudo pip3 install Django[3Papt install ftpdservice ftpd restart[2Pstart[1P startrestartftpd[K[Ksudo ftpd[Kapt install ftpd-servercd ..[Ksudo apt install ftpd-servercd ..[K[3Plscd var[4Plssudo shutdown now[5Pmkdir django[3Pcd[C[C[C[C[C[C[Cpython3 -m venv myvenvsource myvenv/bin/activate
+bash: Script: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\E[Ksource\r': comando non trovato
+bash: bash:: comando non trovato
+bash: source:: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chome/pi/.config/lxsession/LXDE-pi/autostart[A]0: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[14Pautostart\b\b\b\b\b\b\b\b\b\E[5Pnano\b\b\b\bgit': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[9Psh\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[9@ll': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\E[K\b\b\b\b\b\b\E[1Padd': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[18Peval': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[27P': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[Ccd': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\bcp': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[Cech\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[5Pnano': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[10@git': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\E[K\b\b\bnano': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\bclone': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: myvenv/bin/activate: riga 36: EOF non atteso durante la ricerca di """
+bash: myvenv/bin/activate: riga 38: errore di sintassi: EOF non atteso
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m source myvenv/bin/activate
+bash: Script: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\E[Ksource\r': comando non trovato
+bash: bash:: comando non trovato
+bash: source:: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chome/pi/.config/lxsession/LXDE-pi/autostart[A]0: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[14Pautostart\b\b\b\b\b\b\b\b\b\E[5Pnano\b\b\b\bgit': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[9Psh\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[9@ll': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\E[K\b\b\b\b\b\b\E[1Padd': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[18Peval': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[27P': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[Ccd': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\bcp': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[Cech\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[5Pnano': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[10@git': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\E[K\b\b\bnano': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\bclone': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: myvenv/bin/activate: riga 36: EOF non atteso durante la ricerca di """
+bash: myvenv/bin/activate: riga 84: errore di sintassi: EOF non atteso
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m ^C
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m source myvenv/bin/activate
+bash: Script: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\E[Ksource\r': comando non trovato
+bash: bash:: comando non trovato
+bash: source:: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chome/pi/.config/lxsession/LXDE-pi/autostart[A]0: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[14Pautostart\b\b\b\b\b\b\b\b\b\E[5Pnano\b\b\b\bgit': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[9Psh\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[9@ll': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\E[K\b\b\b\b\b\b\E[1Padd': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[18Peval': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[27P': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[Ccd': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\bcp': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[Cech\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[5Pnano': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[10@git': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\E[K\b\b\bnano': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\bclone': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[2Pfirst': comando non trovato
+bash: bash:: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: myvenv/bin/activate: riga 153: EOF non atteso durante la ricerca di "'"
+bash: myvenv/bin/activate: riga 154: errore di sintassi: EOF non atteso
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m ^C
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m source myvenv/bin/activate[K myvenv/bin/activate[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd .[K[K[K[Kls
+[0m[01;34mblog[0m       db.sqlite3  [01;34mmigrations[0m  README.md   [01;34mstatic[0m     typescript
+[01;34mcattiware[0m  [01;32mmanage.py[0m   [01;34mmyvenv[0m      README.txt  [01;34mtemplates[0m
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m lssource myvenv/bin/activate
+bash: Script: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\E[Ksource\r': comando non trovato
+bash: bash:: comando non trovato
+bash: source:: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chome/pi/.config/lxsession/LXDE-pi/autostart[A]0: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[14Pautostart\b\b\b\b\b\b\b\b\b\E[5Pnano\b\b\b\bgit': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[9Psh\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[9@ll': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\E[K\b\b\b\b\b\b\E[1Padd': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[18Peval': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[27P': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[Ccd': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\bcp': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[Cech\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[5Pnano': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[10@git': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\E[K\b\b\bnano': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\bclone': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[2Pfirst': comando non trovato
+bash: bash:: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: myvenv/bin/activate: riga 157: EOF non atteso durante la ricerca di """
+bash: myvenv/bin/activate: riga 228: errore di sintassi: EOF non atteso
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m 
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m source myvenv/bin/activate[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksource myb[Kvenv/bin/activate
+bash: Script: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\E[Ksource\r': comando non trovato
+bash: bash:: comando non trovato
+bash: source:: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chome/pi/.config/lxsession/LXDE-pi/autostart[A]0: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[14Pautostart\b\b\b\b\b\b\b\b\b\E[5Pnano\b\b\b\bgit': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[9Psh\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[9@ll': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\E[K\b\b\b\b\b\b\E[1Padd': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[18Peval': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[27P': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[Ccd': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\bcp': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[Cech\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[5Pnano': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[10@git': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\E[K\b\b\bnano': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\bclone': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[2Pfirst': comando non trovato
+bash: bash:: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: myvenv/bin/activate: riga 348: EOF non atteso durante la ricerca di "'"
+bash: myvenv/bin/activate: riga 412: errore di sintassi: EOF non atteso
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m ^C
+]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m source myvenv/bin/activatels[Ksource myvenv/bin/activate[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksourceifconfiglxterminal -e python3 /home/pi/django/manage.py runserver[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m ifconfig[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Psourceifconfiglxterminal -e python3 /home/pi/django/manage.py runserver[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m ifconfig[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Psource[Kls[Ksourceifconfiglxterminal -e python3 /home/pi/django/manage.py runserver[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m @lxterminal -e python3 /home/pi/django/manage.py runserver[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [27Psudo nano /usr/bin/python
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chome/pi/.config/lxsession/LXDE-pi/autostart[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[Cetc/rc.local[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pautostart[5Pnanogit push origin mastercommit -m "Aggiunta directory 'static'"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd *[Kcommit -m "Aggiunta directory 'static'"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[28Pnano .gitignoregit commit -m "Aggiunta di cware.pythonanywhere.com come nome host"[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[21Ppull --rebase origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Psh[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9@ll --rebase[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "Aggiunta di cware.pythonanywhere.com come nome host"[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[Cv[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[1Padd *cd djangoDjangols[Kgit add *statuspush origin master[9@ll --rebase[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "Prima versione del Blog CattiWare"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K[1Padd *statuscommit -vreset --mixed origin/master[18Pcommit -v-helpremove *[4Prm commit[C[C[4@emove[C[C[C[C[C[C[C[C[C[Kpull --rebase origin master[18Premote -v[Kpush origin master[5Pll --rebasesh origin mastershell[Ksudo apt-get install xclipcp -r cattiware-blog.git acatti@github.com:/opt/git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Psh-add /home/pi/django/github/ssh/key
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Peval $(ssh-agent -s)scp -r cattiware-blog.git acatti@github.com:/opt/git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Psh-keygen -t rsa -b 4096 -C "acatti@github.com"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27P acatti@github.comcp -r cattiware-blog.git acatti@github.com:/opt/git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd django[KDJango[1Pgit initremove[5Pcd ..scp -r cattiware-blog.git acatti@github.com:/opt/git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csh[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp -r cattiware-blog.git acatti@.com:/opt/git140.82.118.4@github.com:/opt/git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cacatti@github.com:/opt/git [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pnano  /home/pi/.ssh/id_rsa.pub
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cech[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Pnano /home/pi/.ssh/id_rsassh-keygen -t rsa -b 4096 -C "acatti@github.com"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp -r cattiware-blog.git acatti@github.com:/opt/git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Pcp -Rf .git/ cattiware-blog.git
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10@git clone --bare[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Ppush origin master[13Pcd djangogit pull ./django/[5Premote -vfetch originremote add origin git://github.com/acatti/cattiware-blog[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[Cfetch origin[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Knano index.phpocd /var/www/htmlsudo git push origin mastergit pull[Ksudo git push origin master[17Pgit statuspush origin mastercommit -m "CattiWare Blog"lone https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[Cadd --all [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclone https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[22Pommit -m "CattiWare Blog"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pfirst commit"[13Padd --all .clone https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[Cadd --all .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kclone https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[30Ppush origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@-u [C[C[C[C[C[C[C[C[C[C[C[C[C[Korigin blogremote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[29Ppush -u origin blog
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K masterremote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[15Pcommit -m "Blog CattiWare - v0.1"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd --all[K[1Pall[2Pstatusnano .gitignoregit config --global user.email "cattialessandro351@gmail.com"[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pname "acatti"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[Ksudo rmdir .git/[9Pls .gitsudo rmdir .git/refs/*[K[Kobjects/[8Pls[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo rmdir .git/objects/./[1P*[K[K[Klogs/refs/**[K*[K[3P .git/*/*/*/*/*/*[K[K[K[K.*/*/*/*[K[K[K[K[Kdir --help[2P.git[K chmod 777 -R ./.gitcd ..[Ksudo chmod 777 -R ./.git[K rmdir .git--help[4P .git/*/*/*/*/*.[K*.*/*/*/*[K[K[K[K[Kdir --help[2P.git[K chmod 777 -R ./.gitcd ..[Ksudo chmod 777 -R ./.[K[K.[K[K[6Prm */*/*[K.[Kcd .git[2P.[3Plscd .git[30@rmdir --ignore-fail-on-non-empty[C[C[C[C[C--helphelp[Kforce .git/[5Pf[C[C[C[C[C[C[3P.git/[3P .git/[3Pcd ..[3Plscd .git//.git/git remote remove origin master[7Pmasteroriginhttps://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcattiware-blog.git
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kadd origin https://github.com/acatti/cattiware-blog[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd djangols[Kcd ..git commit -m "Blog"[3P"Blog"--help[Kadd --all .rm -n --all[3P-all[4@emove[C[C[C[C[C[Cpush -u origin masterremote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[Cremove origin[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[Cremove https://github.com/acatti/cattiware[7P-blog/[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Corigin https://github.com/acatti/cattiware-blog/[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[Cm origin https://github.com/acatti/cattiw[4Pare-blog/[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[27Ppush -u origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/acatti/cattiware-blog.git[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[Cpull https://github.com/acatti/cattiware-blog/ master[K[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpullstatusconfig --global user.email "cattialessandro351@gmail.com"[A]0;pi@cattiware-rpi: ~/django[01;32mpi@cattiware-rpi[00m:[01;34m~/django $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pname "acatti"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[K[K[K[K[K[K[K[K[Ksource /[Kmyvenv/bin/activate .
+bash: Script: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\E[Ksource\r': comando non trovato
+bash: bash:: comando non trovato
+bash: source:: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chome/pi/.config/lxsession/LXDE-pi/autostart[A]0: File o directory non esistente
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[14Pautostart\b\b\b\b\b\b\b\b\b\E[5Pnano\b\b\b\bgit': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[9Psh\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[9@ll': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\E[K\b\b\b\b\b\b\E[1Padd': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[18Peval': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[27P': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[Ccd': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\bcp': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[Cech\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[5Pnano': comando non trovato
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\r\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[10@git': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\E[K\b\b\bnano': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\bclone': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\E[2Pfirst': comando non trovato
+bash: bash:: comando non trovato
+bash: $'\E]0': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: bash:: comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\E[K\b\b\b\b\b\b\b\b\bclone': comando non trovato
+bash: pi@cattiware-rpi:: comando non trovato
+bash: $'32mpi@cattiware-rpi\E[00m:\E[01': comando non trovato
+bash: 34m~/django: File o directory non esistente
+bash: $'\r\E[K\E[A\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\E[C\b\b\b\b\b\b\b\b\b\b\b\b\b\E[3@-u': comando non trovato
+bash: pi@

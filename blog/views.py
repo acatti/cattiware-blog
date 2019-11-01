@@ -13,7 +13,7 @@ def post_detail(request, pk):
 
 def post_new(request):
     if request.method == "POST":
-        form = PostForm(request.POSTt)
+        form = PostForm(request.POST)
         if form.is_valid():
             post = form.save(commit=False)
             post.author = request.user
@@ -37,3 +37,10 @@ def post_edit(request, pk):
     else:
         form = PostForm(instance=post)
     return render(request, 'blog/post_edit.html', {'form': form})
+    
+def post_erase(request, pk):
+    post = get_object_or_404(Post, pk=pk)
+    if request.method == "POST":
+        post = post.delete()
+        return redirect('post_list')
+    return render(request, 'blog/post_erase.html', {'post': post})

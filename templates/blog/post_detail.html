@@ -1,12 +1,13 @@
 {% extends 'blog/base.html' %}
 {% block content %}
+	<h1 style="color:white">{{ post.title }}</h1>
 	<div>
-		<h1>{{ post.title }}</h1></a>
 		<h2><b>{{ post.subtitle }}</b></h2>
-		<h3>{{ post.text|linebreaksbr }}</h3>
+		<p>{{ post.text | safe | linebreaks }}</p>
 		<p><b>Pubblicato</b> in data <b>{{ post.published_date }}</b> da <b>{{ post.author }}</b></p>
-		{% if user.is_authenticated %}
-			<a class="btn btn-default" style="background-color:black;color:white" href="{% url 'post_edit' pk=post.pk %}">MODIFICA</span></a>
-		{% endif %}
 	</div>
+	{% if user.is_authenticated %}
+		<a class="btn btn-default" style="background-color:black;color:white" href="{% url 'post_edit' pk=post.pk %}">MODIFICA</a>
+		<a class="btn btn-default" style="background-color:black;color:white" href="{% url 'post_erase' pk=post.pk %}">ELIMINA</a>
+	{% endif %}
 {% endblock %}

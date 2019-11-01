@@ -1,11 +1,11 @@
 {% extends 'blog/base.html' %}
 {% block content %}
-	<h1>Scrivi Post</h1>
+	<h1 style="color:white">Scrivi Post</h1>
 	<div>
 		<form method="POST" class="post-form">{% csrf_token %}
-			<b>TITOLO</b>:<br>{{ form.title }}<br>
-			<b>SOTTOTITOLO</b>:<br>{{ form.subtitle }}<br>
-			<b>CONTENUTO</b>:<br>{{ form.text }}<br>
+			<b>TITOLO</b>:<br>{{ form.title }}<br><br>
+			<b>SOTTOTITOLO</b>:<br>{{ form.subtitle }}<br><br>
+			<b>CONTENUTO</b>:<br>{{ form.text }}<br><br>
 			<button style="background-color:black;color:white" type="submit" class="save btn btn-default">Salva</button>
 		</form>
 	</div>

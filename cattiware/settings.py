@@ -26,8 +26,8 @@ SECRET_KEY = 't_^3#y_n(hf*obhxvysy+8)6^pxguuj*+-us7tpeq4ws13go=*'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    '192.168.1.113',
     'cattiware-rpi',
-    '192.168.1.55',
     'cware.pythonanywhere.com',
 ]
 
@@ -126,7 +126,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, "static"),
+    os.path.join(BASE_DIR, "blog/static"),
 ]
 
 LOGIN_REDIRECT_URL = '/'

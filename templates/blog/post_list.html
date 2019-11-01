@@ -2,10 +2,13 @@
 {% block content %}
 	{% for post in posts %}
 	<div>
-		<a href="{% url 'post_detail' pk=post.pk %}"><h1>{{ post.title }}</h1></a>
+		<h1>{{ post.title }}</h1>
 		<h2><b>{{ post.subtitle }}</b></h2>
+		<a href="{% url 'post_detail' pk=post.pk %}">Leggi tutto --></a>
+		<br>
+		---
+		<br>
 		<p><b>Pubblicazione</b> in data <b>{{ post.published_date }}</b> da <b>{{ post.author }}</b></p>
 	</div>
-	<br><br>
 	{% endfor %}
 {% endblock %}
